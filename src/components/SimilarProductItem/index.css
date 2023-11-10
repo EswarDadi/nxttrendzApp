@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.image {
+  height: 150px;
+  border-radius: 5px;
+  width: 150px;
+}
+.list-items {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.product-rating-container2 {
+  display: flex;
+  background-color: #3b82f6;
+  padding: 2px;
+  width: 50px;
+  height: 30px;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.product-rating1 {
+  color: white;
+  margin-bottom: 3px;
+  font-size: 12px;
+}
+.star-image1 {
+  height: 15px;
+  margin-top: 12px;
+  margin-left: 5px;
+}
